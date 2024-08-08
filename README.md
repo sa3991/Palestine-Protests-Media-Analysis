@@ -16,3 +16,5 @@ I learned how to webscrape with Beautiful Soup and I also learned more advanced 
 
 ## Things I would have liked to do
 I would have liked to do the sentiment analysis on entire stories instead of just headlines, but VADER is created for social media posts, not long text. I would of also liked to scrape headlines from other regions to compare coverage from different places. I also would refine the headline visual so it's easier to read. 
+
+You can visit the website here: https://sa3991.github.io/Palestine-Protests-Media-Analysis/
